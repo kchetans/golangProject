@@ -1,0 +1,77 @@
+<html ng-app>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+  </head>
+  <body>
+    <div>
+      <label>Name:</label>
+      <input type="text" ng-model="yourName" placeholder="Enter a name here">
+      <hr>
+      <h1>Hello {{yourName}}!</h1>
+    </div>
+  </body>
+</html>
+<!--html>
+<style>
+table, th, td {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  padding: 5px;
+}
+table tr:nth-child(odd) {
+  background-color: #f1f1f1;
+}
+table tr:nth-child(even) {
+  background-color: #ffffff;
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<body style="text-align: center">
+<h1>Add Question</h1>
+
+<form action="http://127.0.0.1:3000/api/v1/qa/web/addquestion" method="post">
+
+
+<div ng-app="myApp" ng-controller="customersCtrl" style="color:red">
+<strong>Select UserId:</strong></br>
+<select ng-model="selectedItem" ng-options="x._id for x in names">{{x._id}}</select></br></br>
+<strong>Selected user Info</strong></br>
+
+<!---Get User Data-->
+UserId</br>
+<input type="text" name="UserID" value={{selectedItem._id}} readonly></br>
+
+Name</br>
+<input type="text" name="Name" value="{{selectedItem.firstname}} {{selectedItem.lastname}}" readonly></br>
+
+ImagUrl</br>
+<input type="text" name="ImageURL" value={{selectedItem.pictureurl}} readonly></br>
+
+Followers</br>
+<input type="text" name="Followers" value={{selectedItem.Followers}} readonly></br>
+
+Description</br>
+<input type="text" name="SingleLineDesc" value={{selectedItem.description}} maxlength="20" readonly></br>
+
+</div>
+</br></br>
+<strong>ADD Question</strong></br>
+<!--Question Id -->
+<input type="text" id="Title" name="Title" placeholder="Enter Question text" maxlength="375" required></br></br></br>
+
+<input type="submit" value="submit">
+
+</form>
+
+
+<script>
+var app = angular.module('myApp', []);
+app.controller('customersCtrl', function($scope, $http) {
+    $http.get("http://127.0.0.1:3000/api/v1/user/users")
+    .then(function (response) {$scope.names = response.data.result;});
+});
+</script>
+
+</body>
+</html-->
+

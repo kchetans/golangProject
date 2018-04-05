@@ -1,0 +1,2239 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+	<head>
+		<title>
+
+
+			exp - home
+			</title>
+		
+
+
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<meta http-equiv="Cache-Control" content="no-cache" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<link rel="shortcut icon" href="http://www.exp.com/favicon.ico" />
+		<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://exp.com/exp.do?action=getRSSFeed" />
+<meta name="description" content="Exp provides professional, technical and strategic advisory services to the world's built and natural environments." />
+<meta name="keywords" content="exp, global, engineering, Design, Firm, Company, Companies, Project, management, Construction, Professional, services, Technical, Strategic, advisory, Buildings, Earth, Environment, Energy, Industrial, Infrastructure, Sustainability, Trow Global, Barenco Inc., X-nth, ADI Limited, Banerjee & Associates, Group Eight Engineering Limited, Advanced Environmental Corp, Richardson Foster, Smylie & Crow Associates, Teknika HBA, Weslake Inc, Sutcliffe Rody Quesnel Inc, Progressive Engineering, Carruthers & Wallace Ltd, Northland Engineering, Robert Sheh, Vlad Stritesky, Philip Trahanas, Sam Iapalucci, William G. Davis, Daniel Johnson, Raul Fernandez, Murli Tolaney" />
+
+		
+		<link rel="stylesheet" type="text/css" href="/jsp/css/exp.css" />
+		<link rel="stylesheet" type="text/css" href="/jsp/css/topmenu.css" />
+		<link rel="stylesheet" type="text/css" href="/jsp/css/leftmenu.css" />
+		<link rel="stylesheet" type="text/css" href="/jsp/css/imagesviewer.css" />
+		<link rel="stylesheet" type="text/css" href="/jsp/css/home.css" />
+		<link rel="stylesheet" type="text/css" href="/jsp/css/popup.css" />
+		<link rel="stylesheet" type="text/css" href="/jsp/css/exp_en.css" />
+
+				<script type="text/javascript" src="/jsp/js/constants.jsp"></script>
+		<script type="text/javascript" src="/jsp/js/jquery-1.7.2.min.js"></script>
+		<script type="text/javascript" src="/jsp/js/general.js"></script>
+		<script type="text/javascript" src="/jsp/js/exp.js"></script>
+		<script type="text/javascript" src="/jsp/js/Accordion.js"></script>
+		<script type="text/javascript" src="/jsp/js/Slideshow.js"></script>
+		<script type="text/javascript" src="/jsp/js/ChangeSize.js"></script>
+		<script type="text/javascript" src="/jsp/js/DateFormat.js"></script>
+		<!--script type="text/javascript" src="/jsp/js/ChildSelect.js"></script-->
+		<!--script type="text/javascript" src="/jsp/js/Calendar.js"></script-->
+		<script type="text/javascript" src="/jsp/js/BlockScreen.js"></script>
+		<script type="text/javascript" src="/jsp/js/MenuNode.js"></script>
+		<script type="text/javascript" src="/jsp/js/Menus.js"></script>
+		<!--script type="text/javascript" src="/jsp/js/Widget.js"></script-->
+		<script type="text/javascript" src="/jsp/js/SimpleAjaxObject.js"></script>
+		<script type="text/javascript" src="/jsp/js/ajax.js"></script>
+		<!--script type="text/javascript" src="/jsp/js/banners.js"></script-->
+		<!--script type="text/javascript" src="/jsp/js/forum.js"></script-->
+		<script type="text/javascript" src="/jsp/js/CategoryNode.js"></script>
+		<script type="text/javascript" src="/jsp/js/SortTable.js"></script>
+		<script type="text/javascript" src="/jsp/js/search.js"></script>
+		<script type="text/javascript" src="/jsp/js/json.js"></script>
+		<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+		<!--[if lt IE 7]>
+		<script defer type="text/javascript" src="/jsp/js/pngfix.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+		<div id="container">
+			<div id="header">
+				
+
+
+
+
+
+<div id="topoptions">
+	<a href="http://exp.com/fr/home">français</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<form style="display: inline;" action="http://exp.com/en/search" method="post">
+		<input type="text" name="txtSearch" value="search" onfocus="this.value=''" />
+	</form>
+</div>
+				
+
+
+
+
+
+
+
+
+
+
+<div id="topmenu">
+<ul id="topmenulist">
+<li class="isactive"><a id="topmenuhome" href="http://exp.com/en/home">Home</a>
+</li>
+<li><a id="topmenuabout" href="http://exp.com/en/ataglance">About</a>
+<ul>
+<li><a id="topmenuataglance" href="http://exp.com/en/ataglance">At a glance</a>
+<ul>
+<li><a id="topmenuhistory" href="http://exp.com/en/history">History</a></li>
+<li><a id="topmenuawards" href="http://exp.com/en/awards">Awards</a></li>
+<li><a id="topmenucorporatevideo" href="http://exp.com/en/corporatevideo">Corporate video</a></li>
+</ul>
+</li>
+<li><a id="topmenuleadership" href="http://exp.com/en/leadership">Leadership</a>
+<ul>
+<li><a id="topmenuboardofdirectors" href="http://exp.com/en/boardofdirectors">Board of directors</a></li>
+<li><a id="topmenuexecutiveteam" href="http://exp.com/en/executiveteam">Executive team</a></li>
+</ul>
+</li>
+<li><a id="topmenuphilosophy" href="http://exp.com/en/philosophy">Philosophy</a>
+<ul>
+<li><a id="topmenumission" href="http://exp.com/en/mission">Mission</a></li>
+<li><a id="topmenuvision" href="http://exp.com/en/vision">Vision</a></li>
+<li><a id="topmenuvalues" href="http://exp.com/en/values">Values</a></li>
+</ul>
+</li>
+<li><a id="topmenupolicies" href="http://exp.com/en/policies">Policies</a>
+<ul>
+<li><a id="topmenucustomerservice" href="http://exp.com/en/customerservice">Client service</a></li>
+<li><a id="topmenuenvironmental" href="http://exp.com/en/environmental">Environmental</a></li>
+<li><a id="topmenuhealthsafety" href="http://exp.com/en/healthsafety">Health + safety</a></li>
+<li><a id="topmenuquality" href="http://exp.com/en/quality">Quality</a></li>
+<li><a id="topmenusocialresponsibility" href="http://exp.com/en/socialresponsibility">Social responsibility</a></li>
+</ul>
+</li>
+<li><a id="topmenumediacenter" href="http://exp.com/en/mediacenter">Media center</a>
+<ul>
+<li><a id="topmenunews" href="http://exp.com/en/news">News</a></li>
+<li><a id="topmenupressreleases" href="http://exp.com/en/pressreleases">Press releases</a></li>
+<li><a id="topmenuarticlespresentations" href="http://exp.com/en/articlespresentations">Articles</a></li>
+<li><a id="topmenubrochures" href="http://exp.com/en/brochures">Brochures</a></li>
+<li><a id="topmenupresentations" href="http://exp.com/en/presentations">Presentations</a></li>
+<li><a id="topmenuvideos" href="http://exp.com/en/videos">Videos</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a id="topmenuexpertise" href="http://exp.com/en/expertise">Markets</a>
+<ul>
+<li><a id="topmenuinfrastructureairports" href="http://exp.com/en/infrastructureairports">Aviation</a>
+</li>
+<li><a id="topmenuinfrastructurebridges" href="http://exp.com/en/infrastructurebridges">Bridges</a>
+</li>
+<li><a id="topmenuinfrastructurebrownfielddevelopment" href="http://exp.com/en/infrastructurebrownfielddevelopment">Brownfield Redevelopment</a>
+</li>
+<li><a id="topmenuindustrialchemical" href="http://exp.com/en/industrialchemical">Chemical</a>
+</li>
+<li><a id="topmenubuildingsciviccultural" href="http://exp.com/en/buildingsciviccultural">Civic + Cultural</a>
+</li>
+<li><a id="topmenubuildingscommercialretail" href="http://exp.com/en/buildingscommercialretail">Commercial + Retail</a>
+</li>
+<li><a id="topmenubuildingseducation" href="http://exp.com/en/buildingseducation">Education</a>
+</li>
+<li><a id="topmenubuildingsentertainmentrecreation" href="http://exp.com/en/buildingsentertainmentrecreation">Entertainment + Sports</a>
+</li>
+<li><a id="topmenubuildingsfederal" href="http://exp.com/en/buildingsfederal">Federal</a>
+</li>
+<li><a id="topmenuindustrialfoodprocessing" href="http://exp.com/en/industrialfoodprocessing">Food processing</a>
+</li>
+<li><a id="topmenuindustrialforestproducts" href="http://exp.com/en/industrialforestproducts">Forest products</a>
+</li>
+<li><a id="topmenubuildingshealthcare" href="http://exp.com/en/buildingshealthcare">Healthcare</a>
+</li>
+<li><a id="topmenuinfrastructurehighwaysroadsbridges" href="http://exp.com/en/infrastructurehighwaysroadsbridges">Highways + Roads</a>
+</li>
+<li><a id="topmenubuildingshospitalitygaming" href="http://exp.com/en/buildingshospitalitygaming">Hospitality + Gaming</a>
+</li>
+<li><a id="topmenuenergyhydroelectricity" href="http://exp.com/en/energyhydroelectricity">Hydroelectric</a>
+</li>
+<li><a id="topmenuhydrologyhydraulics" href="http://exp.com/en/hydrologyhydraulics">Hydrology + Hydraulics</a>
+</li>
+<li><a id="topmenubuildingsjusticecorrectional" href="http://exp.com/en/buildingsjusticecorrectional">Justice + Correctional</a>
+</li>
+<li><a id="topmenuindustrialmanufacturing" href="http://exp.com/en/industrialmanufacturing">Manufacturing</a>
+</li>
+<li><a id="topmenuindustrialmineralsmines" href="http://exp.com/en/industrialmineralsmines">Mining</a>
+</li>
+<li><a id="topmenubuildingstechnologymissioncritical" href="http://exp.com/en/buildingstechnologymissioncritical">Mission Critical</a>
+</li>
+<li><a id="topmenuenergynuclear" href="http://exp.com/en/energynuclear">Nuclear</a>
+</li>
+<li><a id="topmenuenergyoilgasproduction" href="http://exp.com/en/energyoilgasproduction">Petrochemical</a>
+</li>
+<li><a id="topmenuenergypipelines" href="http://exp.com/en/energypipelines">Pipelines</a>
+</li>
+<li><a id="topmenuinfrastructureportsmarine" href="http://exp.com/en/infrastructureportsmarine">Ports + Marine</a>
+</li>
+<li><a id="topmenuinfrastructurerail" href="http://exp.com/en/infrastructurerail">Rail + Transit</a>
+</li>
+<li><a id="topmenuenergyrenewablealternativeenergy" href="http://exp.com/en/energyrenewablealternativeenergy">Renewables + Alternative Energy</a>
+</li>
+<li><a id="topmenubuildingslifesciences" href="http://exp.com/en/buildingslifesciences">Science + Technology</a>
+</li>
+<li><a id="topmenuinfrastructuresolidwaste" href="http://exp.com/en/infrastructuresolidwaste">Solid Waste + Recycling</a>
+</li>
+<li><a id="topmenuenergytransmissiondistributionnetworks" href="http://exp.com/en/energytransmissiondistributionnetworks">Transmission + Distribution</a>
+</li>
+<li><a id="topmenuurbandevelopment" href="http://exp.com/en/urbandevelopment">Urban Development</a>
+</li>
+<li><a id="topmenuinfrastructurewastewatertreatmentcollection" href="http://exp.com/en/infrastructurewastewatertreatmentcollection">Waste Water Collection + Treatment</a>
+</li>
+<li><a id="topmenuinfrastructurewatertreatmentdistribution" href="http://exp.com/en/infrastructurewatertreatmentdistribution">Water Supply, Treatment + Distribution</a>
+</li>
+</ul>
+</li>
+<li><a id="topmenuservice" href="http://exp.com/en/services">Services</a>
+<ul>
+<li><a id="topmenuservice1127" href="http://exp.com/en/service&s=1127">Building Engineering</a>
+<ul>
+<li><a id="topmenuservice2178" href="http://exp.com/en/service&s=2178">Automation + Instrumentation Controls</a>
+<li><a id="topmenuservice2151" href="http://exp.com/en/service&s=2151">Building Envelope Science</a>
+<li><a id="topmenuservice1210" href="http://exp.com/en/service&s=1210">Building Information Modeling</a>
+<li><a id="topmenuservice2157" href="http://exp.com/en/service&s=2157">Commissioning</a>
+<li><a id="topmenuservice2162" href="http://exp.com/en/service&s=2162">Electrical</a>
+<li><a id="topmenuservice1390" href="http://exp.com/en/service&s=1390">Fire Protection</a>
+<li><a id="topmenuservice2204" href="http://exp.com/en/service&s=2204">Industrial Processes </a>
+<li><a id="topmenuservice1211" href="http://exp.com/en/service&s=1211">Intelligent Building Solutions</a>
+<li><a id="topmenuservice2181" href="http://exp.com/en/service&s=2181">Life Safety</a>
+<li><a id="topmenuservice1208" href="http://exp.com/en/service&s=1208">Mechanical</a>
+<li><a id="topmenuservice1207" href="http://exp.com/en/service&s=1207">Plumbing</a>
+<li><a id="topmenuservice2206" href="http://exp.com/en/service&s=2206">Roof testing</a>
+<li><a id="topmenuservice1376" href="http://exp.com/en/service&s=1376">Security</a>
+<li><a id="topmenuservice2173" href="http://exp.com/en/service&s=2173">Structural</a>
+<li><a id="topmenuservice1212" href="http://exp.com/en/service&s=1212">Technology Design</a>
+</ul>
+</li>
+<li><a id="topmenuservice1128" href="http://exp.com/en/service&s=1128">Earth + Environment</a>
+<ul>
+<li><a id="topmenuservice2154" href="http://exp.com/en/service&s=2154">Air Quality + Emissions</a>
+<li><a id="topmenuservice1375" href="http://exp.com/en/service&s=1375">Compliance Audits + Reports</a>
+<li><a id="topmenuservice1374" href="http://exp.com/en/service&s=1374">Dewatering Assessments + Mitigation</a>
+<li><a id="topmenuservice2161" href="http://exp.com/en/service&s=2161">Ecological Services</a>
+<li><a id="topmenuservice2179" href="http://exp.com/en/service&s=2179">Environmental + Regulatory Support</a>
+<li><a id="topmenuservice2188" href="http://exp.com/en/service&s=2188">Environmental Assessments</a>
+<li><a id="topmenuservice2189" href="http://exp.com/en/service&s=2189">Environmental Site Assessments</a>
+<li><a id="topmenuservice1227" href="http://exp.com/en/service&s=1227">Expert Witness + Peer Review</a>
+<li><a id="topmenuservice2182" href="http://exp.com/en/service&s=2182">Geotechnical</a>
+<li><a id="topmenuservice1214" href="http://exp.com/en/service&s=1214">Ground Water Supply + Development</a>
+<li><a id="topmenuservice2176" href="http://exp.com/en/service&s=2176">Hazardous Materials Management</a>
+<li><a id="topmenuservice2187" href="http://exp.com/en/service&s=2187">Materials Testing + Inspection</a>
+<li><a id="topmenuservice2171" href="http://exp.com/en/service&s=2171">Occupational Hygiene</a>
+<li><a id="topmenuservice2192" href="http://exp.com/en/service&s=2192">Pavement Design</a>
+<li><a id="topmenuservice1381" href="http://exp.com/en/service&s=1381">Remedial Action + Mitigation Plans</a>
+<li><a id="topmenuservice2209" href="http://exp.com/en/service&s=2209">Risk Assessment</a>
+<li><a id="topmenuservice1213" href="http://exp.com/en/service&s=1213">Site Remediation</a>
+</ul>
+</li>
+<li><a id="topmenuservice1129" href="http://exp.com/en/service&s=1129">Infrastructure Engineering</a>
+<ul>
+<li><a id="topmenuservice1372" href="http://exp.com/en/service&s=1372">Bridge Design</a>
+<li><a id="topmenuservice1215" href="http://exp.com/en/service&s=1215">Bridge Inspection</a>
+<li><a id="topmenuservice2155" href="http://exp.com/en/service&s=2155">Civil</a>
+<li><a id="topmenuservice1216" href="http://exp.com/en/service&s=1216">Hydroelectricty</a>
+<li><a id="topmenuservice2183" href="http://exp.com/en/service&s=2183">Hydrology</a>
+<li><a id="topmenuservice1217" href="http://exp.com/en/service&s=1217">Land Development</a>
+<li><a id="topmenuservice2167" href="http://exp.com/en/service&s=2167">Pipeline Services</a>
+<li><a id="topmenuservice2174" href="http://exp.com/en/service&s=2174">Surveying + Geomatics</a>
+<li><a id="topmenuservice1219" href="http://exp.com/en/service&s=1219">Transmission & Distribution Networks</a>
+<li><a id="topmenuservice1220" href="http://exp.com/en/service&s=1220">Transportation</a>
+<li><a id="topmenuservice1235" href="http://exp.com/en/service&s=1235">Waste Management</a>
+<li><a id="topmenuservice1221" href="http://exp.com/en/service&s=1221">Water & Waste Water</a>
+<li><a id="topmenuservice2202" href="http://exp.com/en/service&s=2202">Water Resources</a>
+</ul>
+</li>
+<li><a id="topmenuservice1130" href="http://exp.com/en/service&s=1130">Planning + Design</a>
+<ul>
+<li><a id="topmenuservice2150" href="http://exp.com/en/service&s=2150">Architecture</a>
+<li><a id="topmenuservice1373" href="http://exp.com/en/service&s=1373">Interior Design</a>
+<li><a id="topmenuservice2165" href="http://exp.com/en/service&s=2165">Land Use Planning</a>
+<li><a id="topmenuservice2185" href="http://exp.com/en/service&s=2185">Landscape Architecture</a>
+<li><a id="topmenuservice2186" href="http://exp.com/en/service&s=2186">Lighting Design</a>
+<li><a id="topmenuservice1222" href="http://exp.com/en/service&s=1222">Master Planning</a>
+<li><a id="topmenuservice1380" href="http://exp.com/en/service&s=1380">Strategic Planning</a>
+<li><a id="topmenuservice1224" href="http://exp.com/en/service&s=1224">Transportation Planning</a>
+</ul>
+</li>
+<li><a id="topmenuservice1131" href="http://exp.com/en/service&s=1131">Program + Project Management</a>
+<ul>
+<li><a id="topmenuservice1228" href="http://exp.com/en/service&s=1228">Asset Assessment</a>
+<li><a id="topmenuservice1367" href="http://exp.com/en/service&s=1367">Enterprise Asset Management Services</a>
+<li><a id="topmenuservice1366" href="http://exp.com/en/service&s=1366">Feasibility + Due Diligence</a>
+<li><a id="topmenuservice1368" href="http://exp.com/en/service&s=1368">Integrated Project Delivery</a>
+<li><a id="topmenuservice1369" href="http://exp.com/en/service&s=1369">IT Systems Development</a>
+<li><a id="topmenuservice1229" href="http://exp.com/en/service&s=1229">Operational Readiness Planning</a>
+<li><a id="topmenuservice1232" href="http://exp.com/en/service&s=1232">Program Management</a>
+<li><a id="topmenuservice1370" href="http://exp.com/en/service&s=1370">Project Controls</a>
+<li><a id="topmenuservice1371" href="http://exp.com/en/service&s=1371">Project Management</a>
+<li><a id="topmenuservice1233" href="http://exp.com/en/service&s=1233">Risk Mitigation Strategy</a>
+</ul>
+</li>
+<li><a id="topmenuservice1132" href="http://exp.com/en/service&s=1132">Sustainability</a>
+<ul>
+<li><a id="topmenuservice2199" href="http://exp.com/en/service&s=2199">Audits</a>
+<li><a id="topmenuservice2193" href="http://exp.com/en/service&s=2193">Carbon Management</a>
+<li><a id="topmenuservice2190" href="http://exp.com/en/service&s=2190">Energy Efficiency</a>
+<li><a id="topmenuservice2208" href="http://exp.com/en/service&s=2208">Green Communities</a>
+<li><a id="topmenuservice2180" href="http://exp.com/en/service&s=2180">LEED<sup>®</sup> Consulting</a>
+<li><a id="topmenuservice2197" href="http://exp.com/en/service&s=2197">Life Cycle Analysis</a>
+<li><a id="topmenuservice2177" href="http://exp.com/en/service&s=2177">Power Asset Management</a>
+<li><a id="topmenuservice2211" href="http://exp.com/en/service&s=2211">Renewables + Alternative Energy</a>
+<li><a id="topmenuservice2175" href="http://exp.com/en/service&s=2175">Sustainable Development</a>
+<li><a id="topmenuservice1396" href="http://exp.com/en/service&s=1396">Water Optimization</a>
+</ul>
+</li>
+</ul>
+</li>
+<li><a id="topmenucareers" href="http://exp.com/en/careers">Careers</a>
+<ul>
+<li><a id="topmenuemployerofchoice" href="http://exp.com/en/employerofchoice">Employer of choice</a>
+<ul>
+<li><a id="topmenueocoverview" href="http://exp.com/en/eocoverview">our promise</a></li>
+<li><a id="topmenuofficelocations" href="http://exp.com/en/officelocations">Office locations</a></li>
+<li><a id="topmenueocawards" href="http://exp.com/en/eocawards">Awards</a></li>
+<li><a id="topmenueocphilosophy" href="http://exp.com/en/eocphilosophy">Philosophy</a></li>
+</ul>
+</li>
+<li><a id="topmenubenefits" href="http://exp.com/en/benefits">Benefits</a>
+<ul>
+<li><a id="topmenucharitablesustainable" href="http://exp.com/en/charitablesustainable">Charitable + Sustainable</a></li>
+<li><a id="topmenuinternships" href="http://exp.com/en/internships">Internship Programs</a></li>
+<li><a id="topmenutraining" href="http://exp.com/en/training">Training + Development</a></li>
+<li><a id="topmenulifeatexp" href="http://exp.com/en/lifeatexp">our life</a></li>
+</ul>
+</li>
+<li><a id="topmenucareerpaths" href="http://exp.com/en/careerpaths">Career paths</a>
+<ul>
+<li><a id="topmenuwhatourpeopledo" href="http://exp.com/en/whatourpeopledo">What our people do</a></li>
+<li><a id="topmenuwhatourpeoplesay" href="http://exp.com/en/whatourpeoplesay">What our people say</a></li>
+</ul>
+</li>
+<li><a id="topmenuopenings" href="http://exp.com/en/openings">Openings</a>
+</li>
+<li><a id="topmenurecruitermessage" href="http://exp.com/en/recruitermessage">Recruiter message</a>
+</li>
+<li><a id="topmenuprivacypolicy" href="http://exp.com/en/privacypolicy">Privacy policy</a>
+</li>
+<li><a id="topmenurecruitingevents" href="http://exp.com/en/recruitingevents">Recruiting events</a>
+</li>
+</ul>
+</li>
+<li><a id="topmenuinvestors" href="http://exp.com/en/investors">Investors</a>
+<ul>
+<li><a id="topmenuinvestorsoverview" href="http://exp.com/en/investorsoverview">Overview</a>
+<ul>
+<li><a id="topmenucorporatesocialresponsibility" href="http://exp.com/en/corporatesocialresponsibility">Corporate social responsibility</a></li>
+</ul>
+</li>
+<li><a id="topmenucorporategovernance" href="http://exp.com/en/corporategovernance">Corporate governance</a>
+<ul>
+<li><a class="external" id="topmenucodeofethics" href="http://www.exp.com/exp.do?action=getFile&fileId=1850">Code of ethics</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a id="topmenucontact" href="http://exp.com/en/contactofficelocations">Contact</a>
+<ul>
+<li><a id="topmenucontactofficelocations" href="http://exp.com/en/contactofficelocations">Office locations</a>
+</li>
+</ul>
+</li>
+</ul>
+
+</div>
+<script type="text/javascript">
+	addLoadEvent(function() {new Menus("topmenulist", "menuitem", -54, 1, 175, {"topmenuexpertise" : 4});});
+	//addLoadEvent(function() {new Menus("topmenulist", "menuitem", -54, 1, 175);});
+</script>
+			</div>
+			<div id="banner" style="height: 430px; background-image: none; padding-bottom: 0;">
+				<script type="text/javascript">
+				var oBannerImgArr = [];
+				var oCurrentImg = "img1";
+				var oHiddenImg = "img2";
+				var oCurrentImgIdx = 2;
+				oBannerImgArr.push('http://exp.com/exp.do?action=getFile&fileId=25&lang=en');
+oBannerImgArr.push('http://exp.com/exp.do?action=getFile&fileId=26&lang=en');
+oBannerImgArr.push('http://exp.com/exp.do?action=getFile&fileId=27&lang=en');
+oBannerImgArr.push('http://exp.com/exp.do?action=getFile&fileId=28&lang=en');
+oBannerImgArr.push('http://exp.com/exp.do?action=getFile&fileId=29&lang=en');
+oBannerImgArr.push('http://exp.com/exp.do?action=getFile&fileId=30&lang=en');
+oBannerImgArr.push('http://exp.com/exp.do?action=getFile&fileId=31&lang=en');
+
+				
+				function changeImg() {
+					window.setTimeout(function() {
+						exp.alpha.fadeOut(oCurrentImg, 0, 20);
+						exp.alpha.fadeIn(oHiddenImg, 100, 20, function() {
+							var oTmp = oCurrentImg;
+							oCurrentImg = oHiddenImg;
+							oHiddenImg = oTmp;
+							$(oHiddenImg).src = oBannerImgArr[oCurrentImgIdx];
+							oCurrentImgIdx++;
+							if(oCurrentImgIdx >= oBannerImgArr.length) {
+								oCurrentImgIdx = 0;
+							}
+							changeImg();
+						});
+					}, 4000);
+				}
+				
+				if(!detectFlash()) {
+					addLoadEvent(function() {
+						window.setTimeout(function() {
+							exp.alpha.fadeIn(oCurrentImg, 100, 20, function() {
+								changeImg();
+							});
+						}, 1500);
+					});
+				}
+				
+				</script>
+				<object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="985" height="430">
+					<param name="movie" value="http://exp.com/exp.do?action=getFile&fileId=109&lang=en" />
+					<param name="quality" value="high" />
+					<param name="wmode" value="transparent" />
+					<param name="swfversion" value="9.0.45.0" />
+					<!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you donâ€™t want users to see the prompt. -->
+					<param name="expressinstall" value="scripts/expressInstall.swf" />
+					<!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
+					<!--[if !IE]>-->
+					<object type="application/x-shockwave-flash" data="http://exp.com/exp.do?action=getFile&fileId=109&lang=en" width="985" height="430">
+					<!--<![endif]-->
+					
+						<param name="quality" value="high" />
+						<param name="wmode" value="transparent" />
+						<param name="swfversion" value="9.0.45.0" />
+						<param name="expressinstall" value="scripts/expressInstall.swf" />
+						<!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
+						<img style="position: absolute; z-index: 1; opacity: 100; filter: alpha(opacity=100);" src="http://exp.com/exp.do?action=getFile&fileId=25&lang=en" id="img1" />
+						<img style="position: absolute; z-index: 1; opacity: 0; filter: alpha(opacity=0);" src="http://exp.com/exp.do?action=getFile&fileId=26&lang=en" id="img2" />
+						<!--img src="/jsp/images/home/left.png" width="343" height="430" style="position: absolute; z-index: 2;" /-->
+					<!--[if !IE]>-->
+					</object>
+					<!--<![endif]-->
+				</object>
+			</div>
+			<div id="main" class="home" style="margin-bottom: 7px;">
+				<div class="middlebar">
+					<p>We're a leading consulting firm, providing Building Engineering, Earth + Environment, <br />Infrastructure Engineering, Planning + Design, Program + Project Management and Sustainability services to clients around the world.</p>
+
+				</div>
+				<div id="content" style="background-image: url(../jsp/images/layouts/exp/bgContentHome_en.jpg)">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="popupLanguage" class="popup" style="border: none; width: 748px; height: 748px; display: none; background: url(../jsp/images/layouts/exp/LanguageSelection.png) no-repeat;">
+	<div style="text-align: center;margin-top: 510px;"><input type="button" value="English" onclick="setLanguage('en');" />&nbsp;&nbsp;&nbsp;<input type="button" value="Français" onclick="setLanguage('fr')" /></div>
+</div>
+
+
+<script type="text/javascript">
+function setLanguage(lang) {
+	createCookie("firsttime","false",365*100);
+	if(lang == 'fr') {
+		document.location = ACTION_URL + "setEntity&lang=fr";
+	} else {
+		document.location = ACTION_URL + "setEntity&lang=en";
+	}
+}
+addLoadEvent(function() {
+	document.body.appendChild($('popupLanguage'));
+	popup('popupLanguage');
+});
+</script>
+
+<script type="text/javascript">
+jQuery(function() {
+	var getUrlParameter = function (url, name) {
+		name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+		var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+			search = url.split('?')[1],
+			results = regex.exec(search);
+		return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+	};
+	var truncate = function (string){
+	   return string.length > 55 ? string.substring(0,55)+'...' : string;
+	};
+	jQuery.get('https://chk.tbe.taleo.net/chk06/ats/servlet/Rss?org=TEKNIKAHBA&cws=11&WebPage=SRCHR&WebVersion=2&_rss_version=2', function(data) {
+		var countItem = 0, maxItem = 10;
+		jQuery(data).find("item").each(function () {
+			if(++countItem>maxItem) return;
+			var title = jQuery(this).find("title").text(),
+				guid = jQuery(this).find("guid").text(),
+				jobId = getUrlParameter(guid, 'rid');
+			jQuery('#careersslide').append('<li><a href="http://exp.com/en/openings&jobId=' + jobId + '">' + truncate(title) + '</a></li>');
+        });
+	});
+});
+</script>
+<div id="homenews">
+	<a href="http://exp.com/exp.do?action=getRSSFeed&lang=en" style="position: absolute; bottom: 15px; right: 21px;"><img src="/jsp/images/home/RSS.png" onmouseover="this.src='/jsp/images/home/RSSHover.png';" onmouseout="this.src='/jsp/images/home/RSS.png';" width="32" height="32" /></a>
+	<div id="homenewsscroll">
+		 <ul id="newsslide">
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1853">Sean P. Mc Mahon rejoins exp!</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1851">Exp appointed new Board of Directors</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1848">O'Hare Air Traffic Control Tower</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1846">Exp raises over $125,000 for local charities</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1845">Deborah Walters Appointed Executive Vice President and Chief Financial Officer of exp</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1844">Exp is ranking high in ENR top engineering design firm </a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1842">Is the leaky condo crisis over? </a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1841">Mark Dvorak appointed Chief Operating Officer at exp</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1838">Exp honored by the Eastern Township's business community</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1836">Rebecca Huang joins exp's Building team!</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1835">Bringing modern construction to an historic dam replacement </a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1834">Our new, exp designed, office in Saint John NB showcased in Wood Works! magazine</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1833">Exp wins award from ACEC-NB</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1831">Pedestrian tunnel at the Billy Bishop Toronto City Airport wins at the 2015 Ontario Concrete Awards!</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1828">Mike Hess selected as 2015 LEED Fellow</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1824">The MC Smith Federal Building was awarded LEED® Platinum </a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1823">2015 ASHRAE Technology Award case study: Dollard-des-Ormeaux Civic Centre</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1816">St. Louis Int'l modernizes iconic terminal</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1814">Exp shows strong in ENR's Top 500 Design Firms</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1813">I-70 Mississippi River Bridge and Corridor earns National Honor Award at ACEC</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1812">Exp's new geotechnical and materials testing lab in Calgary is now open!</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1803">Calculating roof wind loads made simpler for roofing professionals - On our website</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1800">2015 ASHRAE Technology Award case study: Antarctica-Empire of the Penguin</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1799">The Bibliothèque du Boisé receives LEED® Platinum certification</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1795">Exp named LEED® proven provider by the US Green Building Council</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1793">Our work at Lambert-St. Louis International Airport featured in Interior Design   </a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1790">LID research project - partnership with Ryerson University</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1781">Exp wins three awards from ACEC-NB</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1776">Exp takes first place in three categories from ASHRAE</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1769">Bridging the digital gap in education with social responsibility</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1762">Quebec Power - energy interview</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1760">The Billy Bishop airport pedestrian tunnel wins the TAC 2014 Award</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1757">We've won a TransCanada Safety Award!</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1755">Exp ranks 4th among MEP Giants</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1752">EXP RAISES $115,000 + FOR LOCAL CHARITIES</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1751">EXP TAKES HOME TWO AWARDS FROM THE 2014 GRANDS PRIX DU GÉNIE-CONSEIL QUÉBÉCOIS</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1750"> Exp conclude an agreement with the Table jamésienne</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1746">Commissioning solves operational issues, saves energy</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1744">Exp gets AMF authorization to enter into public contracts in Quebec</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1718">Exp honoured at the soirée énergia</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1717">Quebec's Dominant Hydropower</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1716">Risk Assessment</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1714">Commissioning HVAC Systems</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1712">Project control software</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1711">The awards keep on coming!</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1709">Vincent Latendresse takes the helm in Quebec</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1705">Conference AACE - Megaproject Risk Management</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1706">Exp won an Award of Excellence</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1704">Shankar Nair, Senior Vice President, Chicago Talks Skyscrapers  </a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1697">Development of Green Infrastructure</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1696">3-D computer modeling used to site and design new control tower at O'Hare</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1694">The Chicago River</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1675">Tunnelling in Montréal's limestones: a geotechnical characterization</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1693">Corporate social responsibility report</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1690">Exp among Orlando Sentinel Top 100 companies for working families</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1689">Exp ranked 6th in 2013 Healthcare Design in US</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1686">Shankar Nair - All about the basics</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1683">Exp has received two 2013 Ontario Regional Steel Design Awards</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1681">daylighting strategies to building design solutions</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1680">Air quality in your schools</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1677">Exp raises $100,000 + for local charities</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1676">exp takes home two awards from the 2013 Grands Prix du génie-conseil québécois</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1653">Exp awarded for innovation</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1654">Exp wins Dieppe fire station project</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1655">Size. Flexibility. Emergency Power. Safety.</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1643">Safety first!</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1602">Lemonier named a Top 20 Under 40 winner</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1601">Exp part of a winning team for Algerian project</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1591">Concerns over spoiled soil</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1590">YMCA gives exp a purpose</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1588">Proactive planning </a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1474">Building Bridges </a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1483">Going Wireless!</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1468">Nothin' but net!</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1452">An iconic building repurposed</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1471">Exp: a gold mine of information</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1470">Exp's award-winning services are concrete</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1442">Exp's services help projects take top awards</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1441">Allaby to Lead Transportation Team in Atlantic Canada</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1437">Exp ranked 2nd on Hot Firm List</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1422">Exp's award-winning technology destroys VOCs</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1421">Photocatalytic Gas Treatment project wins award</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1358">Making History Again</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1318">Grounding and Bonding in Commercial Buildings</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1317">Exp appoints new operations executives </a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1287">Exp ranks 6<sup>th</sup> among MEP Giants</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1362">Exp engineers LEED student center</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1258">Exp wins prestigious AIA award</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1259">Exp helps airport weather storm </a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1360">Exp builds on storied legacy </a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1249">Rink Redux Merits Accolades</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1244">Exp swings into action</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1359">Oil spill guideline shrinks clean-up costs</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1112">A winning team</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1141">Opening the door to self-sufficiency</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1137">Wartime houses offer affordable option</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1135">Morin wins Gold Medal Award</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1136">Marc Tremblay Elected Chairman</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations1114">Climate change signals need for innovation</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1090">Exp shows strong in ENR rankings</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news1088">Exp wins prestigious AIA award </a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1058">Exp is Visionary!</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1051">Industry veteran takes helm at exp</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1056">Bill Trow has died at the age of 91</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news943">Exp team member contributes to two books</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases1040">Exp Wins Honor Award </a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases926">Teng & Associates is now exp!</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news856">Yorkville Dam Wins Honor Award</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases847">Geodefor joins exp</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news844">Green Project Recognized at WAF</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news843">FIS Maitland Project Wins Award</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news942">Ernst & Young recognizes exp's President and CEO</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases813">Delsaer Joins exp</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news808">Atlantic Canada Team on Top 101 Companies List</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations817">Catching up with quick moving wireless BAS</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations810">Re:acting to a Disaster</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases807">Murli Tolaney Appointed to Board of Directors</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news879">Wastewater Project in Atlantic Canada Wins Award</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news809">John Street Roundhouse in Toronto Receives Award</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news803">Dental College Project Wins ENR Award</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases789">Exp Sizzles in 2nd Place on The Hot Firm List</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news785">Seminole State Project Up for LEED<sup>®</sup> Certification</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations784">Walls of the Future Article</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news781">Exp Ranks 4th in MEP Giants 2011 List</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news777">Exp's Olympic Gold Medalist Prepares for 2012</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news762">Exp Among Top ENR Design Firms</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news754">Sunnybrook Health Sciences Centre Project Wins</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations757">Getting the Low-Down on Over-Cladding</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news750">Innovative HCB Bridge Design Attracting Attention</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news748">Exp Raises $120,000 for Charities</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news737">Exp Engineers Receive 40 Under 40 Awards</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases749">Exp Receives Awards from the Association of Consulting Engineers, New Brunswick</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news738">Exp Global Inc. Among Top 500 Design Firms</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/articlespresentations&show=360#articlespresentations758">Lighting Experts Get Published</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news690">Trow Global has changed its name</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases695">Trow Global is now exp!</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news227">Chief Human Resources Officer appointment</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases380">Trow Global Named To Best Managed Platinum Club</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases381">ADI Congratulates City Of Fredericton On Grand Opening Of Convention Centre</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases382">Ben Schwartz Appointed Chief Human Resources Officer Of Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases383">ADI Limited Saint John Moves Into New Office On Rothesay Avenue</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases384">ADI Limited's Andrew Steeves Receives Beaubien Award For Exceptional Contributions To Engineering Industry</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases385">E. John Bliss Water Treatment Plant Awarded ACWWA Project Of The Year (Large Utility Category)</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases386">Teng & Associates Joins Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases387">ADI Announces Merger With Nova Scotia Architecture Firm Sperry & Partners Ltd</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news226">Teng joins Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases388">Trow Global Raises Over $85,000 For Sickkids Foundation And Other Local Charities</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases389">Teknika HBA Honoured At The Geoexchange Excellence Awards</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases390">Teknika HBA Named Best Employer For Third Year In A Row</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases392">Wilfrid Morin Wins Prestigious Award</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases394">Wilfrid Morin Promoted To Chief Operating Officer Of Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases391">Marc Tremblay Named President And CEO Of Teknika HBA</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news322">Trow Global Raises over $85,000 for Charities</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news323">Teknika HBA named 2010 Best Employer </a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news536">Wilfrid Morin Wins Prestigious Award</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news537">Wilfrid Morin appointed COO</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news538">Anthony Brown joins Trow Global </a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases393">Anthony Brown Appointed Senior Vice President, Business Development Of Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases395">William A. Trow Receives Canadian Geotechnical Society Award</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news539">Bill Trow wins CGS Award</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases396">York Manor Completes New Resident Care Facility In New Brunswick</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases397">Quebec Firm Les Consultants LBCD Recognized At The Grands Prix Du Génie-Conseil Québécois</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases398">Greg Henderson Appointed Chief Financial Officer Of Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news540">Greg Henderson Appointed CFO</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases399">Samuel H. Iapalucci Appointed To Trow Global Board Of Directors</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news541">Sam Iapalucci Appointed to Board of Directors</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news542">Canada's 50 Best Managed Companies 2009</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news543">Robert Sheh - Trow Global's New Chairman of the Board</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases400">Robert Sheh Appointed Chairman Of The Board For Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news544">Barenco Joins Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases401">Barenco Joins Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news545">Trow Global donates nearly $60,000 for Haiti Relief</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news546">Interview with Vlad Stritesky, President & CEO</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases402">ADI Limited Raises Over $20K For United Way</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases403">Daniel Fillion Joins Teknika HBA As Vice-President Of Business Development</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases404">Teknika HBA Donates $57 150 To Centraide</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases405">Les Laboratoires Shermont Renews Contract In Algeria</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases406">X-nth Joins Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news547">$23 million contract renewal in Algeria</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news548">X-nth Joins Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases407">ADI Limited Joins Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases408">Énergia Awards Teknika HBA And The IGA Extra Couture Supermarket Receive Award From Quebec Energy Conservation Association</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news549">ADI Limited Joins Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases409">The Canadian Consulting Engineering Awards Recognize The ETS Student Residences</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases410">Teknika HBA Wins A Contech "Trophées Innovation" Award</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases411"> 2009 Teknika HBA Named Best Employer In The Large Business Category at the Défi Meilleurs Employeurs</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases412">ADI Limited Welcomes Award-Winning Urban Planner And Transportation Engineer To Saint John</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases414">Trow Global Achieves Ranking On Engineering News-Record's 2009 Top 150 Global Design Firms</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases413">Appointment Of Daniel Johnson And Robert Sheh To Trow Global Board Of Directors</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news550">Trow Global in ENR's Top 150 Global Design Firms</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news551">New Trow Global Directors Appointed</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases415">Teknika HBA Partners With Ecotrip To Promote Sustainable Development And Environmental Awareness</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases416">Trow Raises Over $70,000 For Sickkids Foundation And Other Local Charities</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news552">Trow Raises Over $70 K for Charity at Golf Tournament</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases417">Teknika HBA And Alliance Formwork Rewarded By Institut D'Acier D'Armature Du Québec</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news553">Trow Global wins 2009 BOBAA award </a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases418">Trow Global Wins 2009 Brampton Outstanding Business Achievement Award</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases419">Progénie Experts-Conseils Joins Teknika HBA</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases420">Teknika Doubles The Number Of LEED® Certifications In Quebec</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases421">The ETS Student Residence Building: A Two Time Award Winning Innovative Building</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases422">Banerjee & Associates Limited Joins Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news554">Banerjee & Associates Joins Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases423">Trow Global Announces Alliance With Velocitel</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news555">Trow and Velocitel Alliance</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases424">Trow Global Requalifies For Canada's 50 Best Managed Companies Award For 2008</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news556">Trow Requalifies for 50 Best for 2008</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases425">Trow Global Wins 2008 ZweigWhite Environmental Business Journal Business Achievement Award</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news557">2008 EBJ Business Achievement Award</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases426">Group Conseil PROCD Joins Teknika HBA</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news558">Group Eight joins Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases427">Group Eight Engineering Limited Joins Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases428">Trow Global Cleans Up At The Prestigious Zweig Letter's 2008 Hot Firm Conference In Chicago</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases429">Grands Prix Québécois De La Qualité Teknika HBA Is Awarded A Mention In The Large Service Firm Category</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news559">Trow Global in top 10 of 200 Hot Firms</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases430">Advanced Environmental Corp., Joins Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news560">Trow and Advanced Environmental Corp. Complete Merger</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases431">Teknika HBA Wins The Grand Prize At The Défi Meilleurs Employeurs 2008</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases432">Richardson Foster Ltd Joins Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases433">Smylie & Crow Associates Inc., Joins Trow Global</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news561">Trow and Richardson Foster Complete Merger</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news562">Trow and Smylie & Crow Complete Merger</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases434">Trow Drives Home A Hole-In-One For Sickkids Foundation</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases435">Trow Announces Partnership With General Atlantic</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news563">Trow Announces Partnership with General Atlantic</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases436">Trow And Teknika HBA Complete Merger Combination Creates Leading Global Provider Of Engineering Services</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news564">Trow and Teknika HBA Complete Merger</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases437">An 8 M$ Contract In Algeria For Teknika HBA</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news565">Burnaby Wins CEBC Award of Merit</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases438">Teknika HBA Is A Mercuriades Winner In The Professional Services Category</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news566">Trow Requalifies for 50 Best Managed Companies</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases439">An Important Contract In Algeria For Teknika HBA</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases440">Teknika HBA'S Industry Team Wins At The 18Th Edition Of Gala Énergia</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases441">Teknika HBA Prepares The Transition Within The Energy Vice-Presidency</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases442">Technological Innovation: The Only Device In The World To Dynamically Simulate Winds Is Available In Québec</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news567">Trow Sponsors Olympic Athlete Brian Price</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news568">WJ Bowman joins the Trow Group of Companies</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases443">University Of Waterloo New Faculty Of Architectural Engineering</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news569">Dave McManus Engineering (DME) Joins Trow</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news570">ABH Joins the Trow Team</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news571">LBCD wins Grands Prix du Génie-Conseil Québécois</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news572">The Fernando V. Agostinelli Scholarship</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases444">Trow Awarded Next Phase Of Keystone Project</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news573">Carruthers & Wallace Awarded</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases445">Trow Named One Of Canada's 50 Best Managed Companies</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news574">Trow Awarded Canada's Best Managed</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases446">Teknika HBA Requalifies Among Canada's 50 Best Managed Companies</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases448">Cisc's Award Of Excellence For Teknika HBA And Les Brises Du Fleuve V Project</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases447">Cloutier, Cloutier Et Associés Joins Teknika HBA</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news575">Weslake Inc. and Trow team up</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news576">Northern Ontario based SRQ joins Trow Associates Inc.</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases449">Teknika HBA Mandated By The CHUM In Mechanical And Electrical Engineering</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases450">University Career Days: The Teknika HBA Team Tours Québec And Ontario</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news577">Trow raises $30,000 for Hospital for Sick Children</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news578">Keystone Pipeline Project awarded to Trow</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news579">Trow welcomes Progressive Engineering</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news580">C&W, a Trow Company, wins the Schreyer Award</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases451">Carruthers & Wallace Limited Joins The Trow Group Of Companies</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news581">Carruthers & Wallace  Ltd. joins Trow</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news582">Sodexen Group joins the Trow Group</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news583">Trow part of Sea-to-Sky Highway for 2010 Olympics</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/news&show=360#news584">Northland Engineering joins Trow</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases452">Courtland Engineering Joins The Trow Group Of Companies</a>
+
+			</li>
+
+			<li>
+
+			 	<a href="http://exp.com/en/pressreleases&show=360#pressreleases453">Les Consultants LBCD Inc. Joins The Trow Group Of Companies</a>
+
+			</li>
+
+		 </ul>
+	</div>
+	<span class="clicktolearn"><a href="#">more »»</a></span>
+</div>
+<div id="homecareers">
+	<div id="homecareersscroll">
+		<ul id="careersslide">
+
+		</ul>
+	</div>
+	<span class="clicktolearn"><a href="#">more »»</a></span>
+</div>
+<div id="homeprojects">
+	<div id="homeprojectsscroll">
+		<ul id="projectsslide">
+
+			<li>
+				<div class="thumbnail">
+					<a title="Harrah's Cherokee Hotel" href="http://exp.com/en/projectsviewer&market=&projectid=1625"><img src="http://exp.com/exp.do?action=getFile&fileId=2565&lang=en" alt="CherokeeHotel-HM" /></a>
+				</div>
+				<div class="description">
+					<a title="Harrah's Cherokee Hotel" href="http://exp.com/en/projectsviewer&market=&projectid=1625">Harrah's Cherokee Hotel</a>
+					<span class="info">Cherokee, North Carolina, United States</span>
+				</div>
+				<div class="clear"></div>
+			</li>
+
+			<li>
+				<div class="thumbnail">
+					<a title="Keystone XL Pipeline" href="http://exp.com/en/projectsviewer&market=energypipelines&projectid=872"><img src="http://exp.com/exp.do?action=getFile&fileId=649&lang=en" alt="Keystone XL HM" /></a>
+				</div>
+				<div class="description">
+					<a title="Keystone XL Pipeline" href="http://exp.com/en/projectsviewer&market=energypipelines&projectid=872">Keystone XL Pipeline</a>
+					<span class="info">Hardisty, AB, Canada to Port Arthur & Houston, TX, United States</span>
+				</div>
+				<div class="clear"></div>
+			</li>
+
+			<li>
+				<div class="thumbnail">
+					<a title="Photocatalytic Gas Treatment (CGT) Units " href="http://exp.com/en/projectsviewer&market=industrialchemical&projectid=1589"><img src="http://exp.com/exp.do?action=getFile&fileId=2624&lang=en" alt="Photocatalytic-HM" /></a>
+				</div>
+				<div class="description">
+					<a title="Photocatalytic Gas Treatment (CGT) Units " href="http://exp.com/en/projectsviewer&market=industrialchemical&projectid=1589">Photocatalytic Gas Treatment (CGT) Units </a>
+					<span class="info">Moncure, NC, United States</span>
+				</div>
+				<div class="clear"></div>
+			</li>
+
+			<li>
+				<div class="thumbnail">
+					<a title="Greenwood Racetrack Redevelopment" href="http://exp.com/en/projectsviewer&market=environment&projectid=241"><img src="http://exp.com/exp.do?action=getFile&fileId=16&lang=en" alt="Greenwood HM" /></a>
+				</div>
+				<div class="description">
+					<a title="Greenwood Racetrack Redevelopment" href="http://exp.com/en/projectsviewer&market=environment&projectid=241">Greenwood Racetrack Redevelopment</a>
+					<span class="info">Toronto, ON, Canada</span>
+				</div>
+				<div class="clear"></div>
+			</li>
+
+			<li>
+				<div class="thumbnail">
+					<a title="Wastewater Treatment Plant " href="http://exp.com/en/projectsviewer&market=infrastructurewastewatertreatmentcollection&projectid=1341"><img src="http://exp.com/exp.do?action=getFile&fileId=2140&lang=en" alt="Hudson-HM" /></a>
+				</div>
+				<div class="description">
+					<a title="Wastewater Treatment Plant " href="http://exp.com/en/projectsviewer&market=infrastructurewastewatertreatmentcollection&projectid=1341">Wastewater Treatment Plant </a>
+					<span class="info">Hudson, Quebec, Canada</span>
+				</div>
+				<div class="clear"></div>
+			</li>
+
+			<li>
+				<div class="thumbnail">
+					<a title="Organic Waste Facility" href="http://exp.com/en/projectsviewer&market=sustainability&projectid=363"><img src="http://exp.com/exp.do?action=getFile&fileId=374&lang=en" alt="Organic Waste Facility HM" /></a>
+				</div>
+				<div class="description">
+					<a title="Organic Waste Facility" href="http://exp.com/en/projectsviewer&market=sustainability&projectid=363">Organic Waste Facility</a>
+					<span class="info">Toronto, ON, Canada</span>
+				</div>
+				<div class="clear"></div>
+			</li>
+
+		</ul>
+	</div>
+	<span class="clicktolearn"><a href="#">more »»</a></span>
+</div>
+<script type="text/javascript">
+addWindowLoadEvent(function() {
+	exp.homeslide.set($("projectsslide"), 3000, 3);
+});
+</script>
+				</div>
+				<div style="clear: both;"></div>
+			</div>
+			
+
+
+
+
+
+
+
+
+<div id="footerExpertises">
+
+	<a title="Buildings" href="http://exp.com/en/buildings">Buildings</a>
+
+	<a title="Earth + Environment" href="http://exp.com/en/environment">Earth + Environment</a>
+
+	<a title="Energy" href="http://exp.com/en/energy">Energy</a>
+
+	<a title="Industrial" href="http://exp.com/en/industrial">Industrial</a>
+
+	<a title="Infrastructure" href="http://exp.com/en/infrastructure">Infrastructure</a>
+
+	<a title="Sustainability" href="http://exp.com/en/sustainability">Sustainability</a>
+
+</div>
+			<div id="footer" style="padding-top: 0;">
+
+
+
+
+
+<div id="legal">
+
+	<a href="https://www.facebook.com/#!/expglobal" target="_blank"><img src="/jsp/images/layouts/exp/fb.jpg" style="vertical-align: middle;"></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://www.linkedin.com/company/exp-global-inc" target="_blank"><img src="/jsp/images/layouts/exp/linkedin.jpg" style="vertical-align: middle;"></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="https://twitter.com/Exp_Company" target="_blank"><img src="/jsp/images/layouts/exp/twitter.jpg" style="vertical-align: middle;"></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://exp.com/en/legaldisclaimer">Legal disclaimer</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="http://exp.com/en/privacypolicy">Privacy policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	&copy; 2011 - 2016 <strong>exp</strong>
+</div>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1341862-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script></div>
+		</div>
+	</body>
+</html>
